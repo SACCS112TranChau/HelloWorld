@@ -1,0 +1,13 @@
+//In Class lab Week 3
+//Print "Hello" and name
+
+public class LabWeek3
+{
+	//main method
+	public static void main(String[] args)
+	{
+
+		System.out.println("Hello!");	//Print hello
+		System.out.print("My name is Chau Tran"); //Print my name
+	}
+}
